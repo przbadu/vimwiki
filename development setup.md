@@ -35,4 +35,11 @@ https://github.com/ggreer/the_silver_searcher
 
 https://github.com/universal-ctags/ctags
 
+# Setup vimrc
+
+https://github.com/przbadu/vimrc#install-for-your-own-user-only
+
+# Setup alacritty
+
+https://github.com/przbadu/vimrc#setting-up-terminal
 
