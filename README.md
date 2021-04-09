@@ -1,1 +1,5 @@
-This wiki is managed by [vimwiki](https://github.com/vimwiki/vimwiki)
+# TODO
+
+## [Todo for Vim config](vim-todo)
+## [Vim Documentation](vim-documentation)
+## [Development Setup](development setup)
